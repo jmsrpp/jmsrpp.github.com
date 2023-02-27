@@ -2,4 +2,4 @@
 
 ## Solution Diagram
 
-![Solution Diagram](./solution-diagram.png)
+![Solution Diagram](./solution-diagram-2.png)
